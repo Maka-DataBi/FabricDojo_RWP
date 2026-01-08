@@ -1,27 +1,9 @@
 # Fabric notebook source
 
-# METADATA ********************
-
-# META {
-# META   "kernel_info": {
-# META     "name": "synapse_pyspark"
-# META   },
-# META   "dependencies": {}
-# META }
 
 # CELL ********************
 
 # Fabric notebook source
-
-# METADATA ********************
-
-# META {
-# META   "kernel_info": {
-# META     "name": "jupyter",
-# META     "jupyter_kernel_name": "python3.11"
-# META   },
-# META   "dependencies": {}
-# META }
 
 # MARKDOWN ********************
 
@@ -360,14 +342,6 @@ write_json_to_location(video_json_data, md["write_location"], id)
 # META {
 # META   "language": "python",
 # META   "language_group": "jupyter_python"
-# META }
-
-
-# METADATA ********************
-
-# META {
-# META   "language": "python",
-# META   "language_group": "synapse_pyspark"
 # META }
 
 # MARKDOWN ********************
