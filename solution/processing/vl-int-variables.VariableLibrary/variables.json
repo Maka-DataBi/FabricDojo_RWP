@@ -5,7 +5,7 @@
       "name": "RAW_LH_WORKSPACE_NAME",
       "note": "",
       "type": "String",
-      "value": "int-feature-youtube-api-extraction"
+      "value": "int-dev-datastores"
     },
     {
       "name": "RAW_LH_NAME",
