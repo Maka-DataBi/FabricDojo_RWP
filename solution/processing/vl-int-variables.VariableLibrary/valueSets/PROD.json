@@ -3,7 +3,7 @@
   "name": "PROD",
   "variableOverrides": [
     {
-      "name": "RAW_LH_WORKSPACE_NAME",
+      "name": "LH_WORKSPACE_NAME",
       "value": "int-prod-datastores"
     }
   ]

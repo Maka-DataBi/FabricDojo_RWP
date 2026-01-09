@@ -3,7 +3,7 @@
   "name": "DEV",
   "variableOverrides": [
     {
-      "name": "RAW_LH_WORKSPACE_NAME",
+      "name": "LH_WORKSPACE_NAME",
       "value": "int-dev-datastores"
     }
   ]
