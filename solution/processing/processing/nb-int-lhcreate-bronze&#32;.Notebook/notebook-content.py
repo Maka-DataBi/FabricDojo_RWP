@@ -5,8 +5,7 @@
 # META {
 # META   "kernel_info": {
 # META     "name": "synapse_pyspark"
-# META   },
-# META   "dependencies": {}
+# META   }
 # META }
 
 # CELL ********************
@@ -16,10 +15,8 @@
 # METADATA ********************
 
 # META {
-# META   "kernel_info": {
-# META     "name": "synapse_pyspark"
-# META   },
-# META   "dependencies": {}
+# META   "language": "python",
+# META   "language_group": "synapse_pyspark"
 # META }
 
 # MARKDOWN ********************
@@ -116,13 +113,6 @@ for table, ddl in BRONZE_TABLE_SCHEMAS.items():
     
     # run the SQL statement to create the table
     spark.sql(create_script)
-
-# METADATA ********************
-
-# META {
-# META   "language": "python",
-# META   "language_group": "synapse_pyspark"
-# META }
 
 # METADATA ********************
 
